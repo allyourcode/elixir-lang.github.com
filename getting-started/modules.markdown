@@ -206,6 +206,7 @@ iex> DefaultTest.dowork
 hello
 :ok
 iex> DefaultTest.dowork 123
+hello
 123
 iex> DefaultTest.dowork
 hello
